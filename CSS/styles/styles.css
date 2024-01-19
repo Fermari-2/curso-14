@@ -130,3 +130,7 @@ a:link{
     color: aqua;
 }
 
+#padre:first-child{
+    color: brown;
+}
+
